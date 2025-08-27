@@ -1,0 +1,14 @@
+.first-click,
+.counter-click {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.first-click {
+    background-color: rgb(00,00,00);
+    color: rgb(255,255,255);
+}
+
+.counter-click {
+    background-color: rgb(255,255,00);
+}
